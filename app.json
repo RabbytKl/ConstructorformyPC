@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ConstructorformyPC",
+    "slug": "ConstructorformyPC",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
